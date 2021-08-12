@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/gbs/lg/CMakeTutorial/checklist/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I. -I../ -I../libraries/include  -g   -std=gnu++11 -o CMakeFiles/demo.dir/demo.cpp.o -c /home/gbs/lg/CMakeTutorial/checklist/demo.cpp",
+  "file": "/home/gbs/lg/CMakeTutorial/checklist/demo.cpp"
+},
+
+{
+  "directory": "/home/gbs/lg/CMakeTutorial/checklist/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I../libraries/include  -g   -std=gnu++11 -o libraries/CMakeFiles/mylibraries.dir/source/lib.cpp.o -c /home/gbs/lg/CMakeTutorial/checklist/libraries/source/lib.cpp",
+  "file": "/home/gbs/lg/CMakeTutorial/checklist/libraries/source/lib.cpp"
+}
+]

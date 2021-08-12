@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libraries/include/lib.h
+
+/home/gbs/lg/CMakeTutorial/checklist/demo.cpp
+iostream
+-
+configuration.h
+/home/gbs/lg/CMakeTutorial/checklist/configuration.h
+lib.h
+/home/gbs/lg/CMakeTutorial/checklist/lib.h
+
+configuration.h
+

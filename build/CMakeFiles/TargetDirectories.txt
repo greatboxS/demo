@@ -1,0 +1,14 @@
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/install/strip.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/install.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/list_install_components.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/rebuild_cache.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/edit_cache.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/install/local.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/CMakeFiles/demo.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/install/strip.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/install/local.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/install.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/list_install_components.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/rebuild_cache.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/edit_cache.dir
+/home/gbs/lg/CMakeTutorial/checklist/build/libraries/CMakeFiles/mylibraries.dir

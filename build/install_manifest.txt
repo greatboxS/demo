@@ -1,0 +1,2 @@
+/home/gbs/lg/CMakeTutorial/checklist/build/release/bin/demo
+/home/gbs/lg/CMakeTutorial/checklist/build/release/include/configuration.h

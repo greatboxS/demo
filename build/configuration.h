@@ -1,0 +1,2 @@
+#define USE_LIBRARIES
+#define PROJECT_VERSION @demo_VERSION@

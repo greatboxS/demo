@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/demo.dir/demo.cpp.o  -o demo   -L/home/gbs/lg/CMakeTutorial/checklist/libraries/source  -Wl,-rpath,/home/gbs/lg/CMakeTutorial/checklist/libraries/source: libraries/libmylibraries.a 
